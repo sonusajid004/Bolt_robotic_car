@@ -7,16 +7,16 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body style="background-image: url('https://wallpaperaccess.com/full/840326.jpg')">
 	
 
 			<br>
             <br>
             <div class="container" >
-            	<div class="jumbotron" style="color:rgba(200,0,0,0.7);background-color: rgba(0,0,0,0.3);text-align:center;"><h3><b>Remote Control Car</b></h3></div>
+            	<div class="jumbotron" style="color:rgba(200,0,0);background-color: rgba(0,0,0,0.3);text-align:center;"><h3><b>Remote Control Car</b></h3></div>
             </div>
             <div class="container">
-            	<div class="jumbotron" style="padding-top:20px;">
+            	<div class="jumbotron" style="padding-top:20px;background-color: rgba(0,0,0,0.3);">
             <div class="row">
                 <div class="col-xs-2"></div>
                 <div class="col-xs-3"></div>
